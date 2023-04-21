@@ -1,0 +1,67 @@
+#classic {
+  /*padding: .5m 3em 2em .75em; */
+  display: block;
+  text-align: justify;
+  font-weight: bold;
+  margin-top: 5em;
+  /*width: 17%;
+  */
+  /*  border: 1.5em; */
+  font: calibri;
+  border: 2px;
+  background-color: #fbfad2;
+  padding: 10px;
+}
+
+#modern {
+  border: 2em;
+  background-color: #FED700;
+  
+}
+
+#modern p {
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#impact {
+  background-color: #8fee90;
+  /* padding-inline: 5px 5px; */
+  
+  width: 175px;
+}
+
+#impact p {
+  display: block;
+  margin: auto;
+  border: 5px solid black;
+  padding: 1em 1em 1em 1em;
+  outline: 5px solid black;
+  outline-offset: 5px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  
+}
+
+#elise {
+  display: block;
+  margin: auto;
+  border: 2px solid #fffaef;
+  padding: 2em;
+  font: "Junicode Bold";
+  font-style: italic;
+}
+
+#one, #two  {
+
+}
+
+#gaudi {
+
+}
+
+
+
+
